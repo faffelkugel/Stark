@@ -31,5 +31,3 @@ Building blocks...
 ### Contact
 Hit me up on twitter if you wanna talk [Twitter](https://twitter.com/faffelkugel)
 --
-#### Note
-So you might be thinking "Why not just make a variation of Bootstrap?". Well, I could, but I've been wanting to give myself a challenge, and I've kinda grown tired of the Bootstrap styling. No disrespect to the Bootstrap team, they've managed to make a super fluid, universal and awesome framework, which is obviously loved by many within the industry.

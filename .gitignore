@@ -40,3 +40,4 @@ config.codekit
 *.css.map
 scss/.sass-cache
 scss/.sass-cache/*
+*Design

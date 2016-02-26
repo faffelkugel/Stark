@@ -17,12 +17,37 @@ Building blocks...
 - [ ] Navs
 - [ ] Navbar
 - [ ] Breadcrumbs
+- [ ] Pagination
+- [ ] Labels
+- [ ] Badges
+- [ ] Jumbotron
+- [ ] Page header
+- [ ] Thumbnails
+- [ ] Alerts
+- [ ] Progress bars
+- [ ] Media object
+- [ ] List group
+- [ ] Panels
+- [ ] Responsive embed
+- [ ] Wells
+- [ ] Tabs
+- [ ] Tooltips
+- [ ] Popovers
+- [ ] Carousel
+- [ ] Table
 - [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ]
+- [ ] Modals
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
 --
 ### Todo
 - [ ] Use Travis Neilson’s rem vs. em video &amp; determine course of action.
